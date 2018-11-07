@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.tencent.bugly:crashreport-2.6.6.1">
+    <CLASSES>
+      <root url="jar://D:/software/gradle/directory_path/caches/transforms-1/files-1.1/crashreport-2.6.6.1.aar/13f6ab8fe331194f9abdee49c7a848d7/jars/classes.jar!/" />
+      <root url="file://D:/software/gradle/directory_path/caches/transforms-1/files-1.1/crashreport-2.6.6.1.aar/13f6ab8fe331194f9abdee49c7a848d7/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://D:/software/gradle/directory_path/caches/modules-2/files-2.1/com.tencent.bugly/crashreport/2.6.6.1/35bc208c23625738255fb6ea7c631ba9f5380e96/crashreport-2.6.6.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

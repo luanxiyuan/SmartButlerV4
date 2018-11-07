@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Citibank</string>
+    <string name="title_1">服务管家</string>
+    <string name="title_2">微信精选</string>
+    <string name="title_3">图片社区</string>
+    <string name="title_4">个人中心</string>
+    <string name="setting">设置</string>
+    <string name="guide_page">引导页</string>
+    <string name="one_content">One</string>
+    <string name="two_content">Two</string>
+    <string name="three_content">Three</string>
+    <string name="enter_home">进入主页</string>
+    <string name="login">登录</string>
+    <string name="register">注册</string>
+    <string name="username">用户名</string>
+    <string name="age">年龄</string>
+    <string name="password">密码</string>
+    <string name="remember_password">记住密码</string>
+    <string name="forget_password">忘记密码？</string>
+    <string name="brief_intro">简介</string>
+    <string name="emial">邮箱</string>
+    <string name="retype_password">再输入一次</string>
+    <string name="reg_msg_prompt">注册成功需要前往邮箱验证，否则无法登录。</string>
+    <string name="sex_mail">男</string>
+    <string name="sex_femail">女</string>
+    <string name="input_not_null">输入框不能为空</string>
+    <string name="leave_nothing">这家伙很懒，什么都没有留下。</string>
+    <string name="password_not_same">两次输入的密码不一致</string>
+    <string name="register_success">注册成功</string>
+    <string name="register_fail">注册失败</string>
+    <string name="login_success">登录成功</string>
+    <string name="login_fail">用户名和密码不匹配，请重新输入。</string>
+</resources>

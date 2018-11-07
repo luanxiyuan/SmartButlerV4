@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.daimajia.slider:library-1.1.5">
+    <CLASSES>
+      <root url="file://D:/software/gradle/directory_path/caches/transforms-1/files-1.1/library-1.1.5.aar/cd7851500d6872dc8e0263ab8044be56/res" />
+      <root url="jar://D:/software/gradle/directory_path/caches/transforms-1/files-1.1/library-1.1.5.aar/cd7851500d6872dc8e0263ab8044be56/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://D:/software/gradle/directory_path/caches/modules-2/files-2.1/com.daimajia.slider/library/1.1.5/5040bee95115677508106e1a42cd685bdc570369/library-1.1.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
